@@ -22,3 +22,4 @@ export function searchMealsByIngredient({ commit }, ingredient) {
         commit('setMealsByIngredient', data.meals)
     })
 }
+// \( 'v')/ put this comment here so i could commit the final 'finished' commit
